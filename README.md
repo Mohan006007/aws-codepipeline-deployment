@@ -1,4 +1,4 @@
-**AWS CI/CD Web Application Deployment**
+# **AWS CI/CD Web Application Deployment**
 
 This project demonstrates deploying a simple web application using AWS CI/CD tools: CodeCommit, CodeBuild, CodeDeploy, and CodePipeline.
 
