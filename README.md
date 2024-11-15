@@ -30,12 +30,14 @@ Screenshots
 
 2. CodePipeline Overview
 
-3. CodeBuild Configuration
+3. Pipeline Execution History
 
-4. Deployment History
+4. CodeBuild Configuration
 
-5. EC2 Console
+5. Deployment History
 
-6. Web Application in Browser
+6. EC2 Console
 
-7. VS Code Terminal Initializing CodeCommit Repo
+7. Web Application in Browser
+
+8. VS Code Terminal Initializing CodeCommit Repo
